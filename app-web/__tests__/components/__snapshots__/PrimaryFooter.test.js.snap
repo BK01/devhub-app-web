@@ -29,6 +29,26 @@ ShallowWrapper {
                 "text": "home",
                 "to": "/",
               },
+              Object {
+                "text": "disclaimer",
+                "to": "https://www2.gov.bc.ca/gov/content/home/disclaimer",
+              },
+              Object {
+                "text": "privacy",
+                "to": "https://www2.gov.bc.ca/gov/content/home/privacy",
+              },
+              Object {
+                "text": "accessibility",
+                "to": "https://www2.gov.bc.ca/gov/content/home/accessibility",
+              },
+              Object {
+                "text": "copyright",
+                "to": "https://www2.gov.bc.ca/gov/content/home/copyright",
+              },
+              Object {
+                "text": "contact us",
+                "to": "https://github.com/bcgov/devhub-app-web/issues",
+              },
             ]
           }
         />
@@ -48,6 +68,26 @@ ShallowWrapper {
                 "text": "home",
                 "to": "/",
               },
+              Object {
+                "text": "disclaimer",
+                "to": "https://www2.gov.bc.ca/gov/content/home/disclaimer",
+              },
+              Object {
+                "text": "privacy",
+                "to": "https://www2.gov.bc.ca/gov/content/home/privacy",
+              },
+              Object {
+                "text": "accessibility",
+                "to": "https://www2.gov.bc.ca/gov/content/home/accessibility",
+              },
+              Object {
+                "text": "copyright",
+                "to": "https://www2.gov.bc.ca/gov/content/home/copyright",
+              },
+              Object {
+                "text": "contact us",
+                "to": "https://github.com/bcgov/devhub-app-web/issues",
+              },
             ]
           }
         />,
@@ -63,6 +103,26 @@ ShallowWrapper {
             Object {
               "text": "home",
               "to": "/",
+            },
+            Object {
+              "text": "disclaimer",
+              "to": "https://www2.gov.bc.ca/gov/content/home/disclaimer",
+            },
+            Object {
+              "text": "privacy",
+              "to": "https://www2.gov.bc.ca/gov/content/home/privacy",
+            },
+            Object {
+              "text": "accessibility",
+              "to": "https://www2.gov.bc.ca/gov/content/home/accessibility",
+            },
+            Object {
+              "text": "copyright",
+              "to": "https://www2.gov.bc.ca/gov/content/home/copyright",
+            },
+            Object {
+              "text": "contact us",
+              "to": "https://github.com/bcgov/devhub-app-web/issues",
             },
           ],
         },
@@ -90,6 +150,26 @@ ShallowWrapper {
                   "text": "home",
                   "to": "/",
                 },
+                Object {
+                  "text": "disclaimer",
+                  "to": "https://www2.gov.bc.ca/gov/content/home/disclaimer",
+                },
+                Object {
+                  "text": "privacy",
+                  "to": "https://www2.gov.bc.ca/gov/content/home/privacy",
+                },
+                Object {
+                  "text": "accessibility",
+                  "to": "https://www2.gov.bc.ca/gov/content/home/accessibility",
+                },
+                Object {
+                  "text": "copyright",
+                  "to": "https://www2.gov.bc.ca/gov/content/home/copyright",
+                },
+                Object {
+                  "text": "contact us",
+                  "to": "https://github.com/bcgov/devhub-app-web/issues",
+                },
               ]
             }
           />
@@ -109,6 +189,26 @@ ShallowWrapper {
                   "text": "home",
                   "to": "/",
                 },
+                Object {
+                  "text": "disclaimer",
+                  "to": "https://www2.gov.bc.ca/gov/content/home/disclaimer",
+                },
+                Object {
+                  "text": "privacy",
+                  "to": "https://www2.gov.bc.ca/gov/content/home/privacy",
+                },
+                Object {
+                  "text": "accessibility",
+                  "to": "https://www2.gov.bc.ca/gov/content/home/accessibility",
+                },
+                Object {
+                  "text": "copyright",
+                  "to": "https://www2.gov.bc.ca/gov/content/home/copyright",
+                },
+                Object {
+                  "text": "contact us",
+                  "to": "https://github.com/bcgov/devhub-app-web/issues",
+                },
               ]
             }
           />,
@@ -124,6 +224,26 @@ ShallowWrapper {
               Object {
                 "text": "home",
                 "to": "/",
+              },
+              Object {
+                "text": "disclaimer",
+                "to": "https://www2.gov.bc.ca/gov/content/home/disclaimer",
+              },
+              Object {
+                "text": "privacy",
+                "to": "https://www2.gov.bc.ca/gov/content/home/privacy",
+              },
+              Object {
+                "text": "accessibility",
+                "to": "https://www2.gov.bc.ca/gov/content/home/accessibility",
+              },
+              Object {
+                "text": "copyright",
+                "to": "https://www2.gov.bc.ca/gov/content/home/copyright",
+              },
+              Object {
+                "text": "contact us",
+                "to": "https://github.com/bcgov/devhub-app-web/issues",
               },
             ],
           },
