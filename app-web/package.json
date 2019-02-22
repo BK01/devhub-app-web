@@ -183,7 +183,13 @@
     }
   },
   "lint-staged": {
-    "*.js": ["eslint --fix", "git add"],
-    "*.css": ["js-beautify --config .jsbeautifyrc -f *.css", "git add"]
+    "*.js": [
+      "eslint --fix",
+      "git add"
+    ],
+    "*.css": [
+      "js-beautify --config .jsbeautifyrc -f *.css",
+      "git add"
+    ]
   }
 }
